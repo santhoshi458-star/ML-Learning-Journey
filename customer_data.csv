@@ -1,0 +1,21 @@
+Customer_ID,Name,Gender,Age,City,Join_Date,Last_Purchase_Date,Total_Purchase_Amount,Feedback_Score
+C001,Ravi Kumar,Male,25.0,Hyderabad,2023-01-01,2024-01-10,8270,8
+C002,Anu Sharma,Female,30.0,Bangalore,2023-01-16,2024-01-20,1860,9
+C003,Priya Das,,22.0,Chennai,2023-01-31,2024-01-30,6390,10
+C004,Sai Reddy,Male,-5.0,Hyderabad,2023-02-15,2024-02-09,6191,50
+C005,Rohit Verma,Male,120.0,Pune,2023-03-02,2024-02-19,6734,7
+C006,Kiran Kumar,Male,,Bangalore,2023-03-17,2024-02-29,7265,6
+C007,Sneha Rao,,28.0,Hyderabad,2023-04-01,2024-03-10,1466,9
+C008,Pooja Iyer,Female,26.0,Chennai,2023-04-16,2024-03-20,5426,10
+C009,Ajay Mehta,Male,35.0,Pune,2023-05-01,2024-03-30,6578,5
+C010,Divya Singh,Female,40.0,Hyderabad,2023-05-16,2024-04-09,9322,8
+C011,Teja Reddy,Male,31.0,Bangalore,2023-05-31,2024-04-19,2685,7
+C012,Arun Das,,,Hyderabad,2023-06-15,2024-04-29,1769,55
+C013,Vikas Jain,Male,29.0,Pune,2023-06-30,2024-05-09,7949,9
+C014,Neha Gupta,Female,33.0,Chennai,2023-07-15,2024-05-19,3433,10
+C015,Meena Shah,Female,27.0,Bangalore,2023-07-30,2024-05-29,6311,3
+C016,Anil Rao,Male,38.0,Pune,2023-08-14,2024-06-08,6051,8
+C017,Rajesh Bhat,,45.0,Hyderabad,2023-08-29,2024-06-18,7420,9
+C018,Ritika Agarwal,Female,23.0,Pune,2023-09-13,2024-06-28,2184,12
+C019,Sandeep Reddy,Male,,Chennai,2023-09-28,2024-07-08,5555,7
+C020,Deepa Nair,Female,20.0,Bangalore,2023-10-13,2024-07-18,4385,2
