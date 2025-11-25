@@ -1,0 +1,3 @@
+/notebooks      ← all synced notebooks
+/.github/workflows/kaggle_sync.yml
+sync_kaggle.py
